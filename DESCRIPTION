@@ -1,0 +1,16 @@
+Package: PackageRybak
+Title: Checking the Gauss-Markov conditions
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ihor",
+           family = "Rybak",
+           role = c("aut", "cre"),
+           email = "rybak.ihor@chnu.edu.ua")
+Description:This package graphically checks the Gauss-Markov conditions for evaluation
+            parameters of the linear model of multiple regression.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
